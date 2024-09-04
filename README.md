@@ -19,7 +19,10 @@ Openvino adalah perangkat lunak sumber terbuka untuk mengoptimalkan dan menerapk
 Openvino dibuat oleh Openvinotoolkit
 Openvino menggunakan 6 bahasa C++, C, JavaScript, Python, CMake, HTML
 
-https://github.com/sympy/sympy
-Sympy adalah 
-Sympy dibuat oleh Sympy
-Sympy menggunakan 6 bahasa Python, ANTRL, JavaScript, XSLT, Perl, Shell
+https://github.com/solana-labs/solana-program-library
+Solana-program-library adalah kumpulan program on-chain yang menargetkan runtime paralel Sealevel. Program-program ini diuji terhadap implementasi Sealevel Solana, runtime solana, dan beberapa diterapkan ke Mainnet Beta. 
+Solana-program-library dibuat oleh Solana-Labs
+Solana-program-library menggunakan 7 bahasa Rush, Python, Shell, C, TypeScript, C++, JavaScript
+
+Tugas nomor 2
+https://trello.com/b/UpttUWAs/aktivitas-selama-4-minggu
